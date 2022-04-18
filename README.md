@@ -14,7 +14,7 @@
 
 </div>
 
-![My card name](https://cardivo.vercel.app/api?name=AXN4&description=Hi,%20Welcome%20To%20💖AXN4💖%20Profile%20❤&image=https://i.imgur.com/E2m87kF.jpeg&backgroundColor=%23ecf0f1&instagram=_axn4._&github=AXN4&twitter=&pattern=leaf&colorPattern=%23eaeaea)
+![My card name](https://cardivo.vercel.app/api?name=AXN4&description=Hi,%20Welcome%20To%20💖AXN4💖%20Profile%20❤&image=https://i.imgur.com/XxpsH71.jpeg&backgroundColor=%23ecf0f1&instagram=_axn4._&github=AXN4&twitter=&pattern=leaf&colorPattern=%23eaeaea)
 
 <div align="center">
   <p align="center">
