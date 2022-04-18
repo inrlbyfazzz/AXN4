@@ -3,7 +3,7 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=Y70000&lines=Welcome+to+AXN4+Profile)](https://git.io/typing-svg)
 
   <p align="center">
-  <a href="https://ibb.co/4wyvT9j"><img src="https://i.imgur.com/E2m87kF.jpeg""width="170" height="170"/>
+  <a href="https://ibb.co/4wyvT9j"><img src="https://i.imgur.com/XxpsH71.jpeg""width="170" height="170"/>
   <p align="center">
 
 <a href="#"><img title="jocker" src="https://img.shields.io/badge/-💝AXN4💝-blue?&style=for-the-badge"></a>
