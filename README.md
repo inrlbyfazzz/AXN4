@@ -1,27 +1,35 @@
-
-  Welcome to AXN4's profile!
-### 🤝 Connect with me:
-
-<a href="https://instagram.com/_axn4._"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="SafwanGanz | Instagram" width="21px"/></a>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-<button> 
-
-<!-- Social icons section -->
-<p align="center">
-  <a href="https://youtube.com/channel/"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
-</a>
-</p>
 <div align="center">
-  <img border-radius: 15px src="AXN4.jpg" width="300" height="300"/>
+
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=Y70000&lines=Welcome+to+AXN4+Profile)](https://git.io/typing-svg)
+
+  <p align="center">
+  <a href="https://ibb.co/4wyvT9j"><img src="https://i.imgur.com/E2m87kF.jpeg""width="170" height="170"/>
   <p align="center">
 
+<a href="#"><img title="jocker" src="https://img.shields.io/badge/-💝AXN4💝-blue?&style=for-the-badge"></a>
+</p>
+  </p>
 
-### 📫 Follow Me On
-<a href="https://www.instagram.com/_axn4._" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://youtube.com/channel/" target="_blank"><img src="https://img.shields.io/badge/YouTube-%231877F2.svg?&style=flat-square&logo=YouTube&logoColor=white" alt="YouTube"></a>
-<a href="https://wa.me/918590451659" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
+<a href="https://github.com/AXN4"><img title="jocker" src="https://img.shields.io/badge/AXN4-authot?color=black&style=for-the-badge&logo=github"></a>
 
-![github stats](https://github-readme-stats.vercel.app/api?username=AXN4&show_icons=true&theme=radical)
-![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=AXN4&layout=compact&theme=nightowl)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=AXN4&repo=Alien-Alfa&heme=dark)
+</div>
+
+![My card name](https://cardivo.vercel.app/api?name=AXN4&description=Hi,%20Welcome%20To%20💖AXN4💖%20Profile%20❤&image=https://i.imgur.com/E2m87kF.jpeg&backgroundColor=%23ecf0f1&instagram=_axn4._&github=AXN4&twitter=&pattern=leaf&colorPattern=%23eaeaea)
+
+<div align="center">
+  <p align="center">
+
+<hr></hr>  
+    
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" />
+
+
+
+</div>
+    
+
+
+<!---
+SPlRlT-YT/SPlRlT-YT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
